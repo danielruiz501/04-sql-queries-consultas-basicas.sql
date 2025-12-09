@@ -1,4 +1,4 @@
-# 04-sql-queries-consultas-basicas.sql
+# MySQL queries consultas bàsicas
 
 SELECT * FROM customers;
 
